@@ -1,12 +1,12 @@
-# TreeFTP TP1
+# TreeFTP 
 
-Submitted by Sankari Balasubramaniyan on 23-January-2022
+Submitted by Sankari Balasubramaniyan
 
 ## **OBJECTIVE**
 
 **List the directories and files present in the given path of an FTP server**
 
-- Establish Client, server connection via telnet/TCP protocol
+- Establish Client, server connection via TCP protocol
 - Communicate commands, status codes and data between Client and Server.
 
 ## **ENVIRONMENT AND EXECUTION**
